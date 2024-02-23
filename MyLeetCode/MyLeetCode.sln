@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21. Merge Two Sorted Lists"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88-MergeSortedArray", "..\88-MergeSortedArray\88-MergeSortedArray.csproj", "{09548E63-55CA-4CFC-B5A5-0BB9CE4AF1AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "128. Longest Consecutive Sequence", "..\128. Longest Consecutive Sequence\128. Longest Consecutive Sequence.csproj", "{D280D2B5-727E-4715-ABCE-8747E9A6FEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment", "..\Assignment\Assignment.csproj", "{A74983D2-F5AB-43B5-AACC-22F1F0A0DEEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{09548E63-55CA-4CFC-B5A5-0BB9CE4AF1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09548E63-55CA-4CFC-B5A5-0BB9CE4AF1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09548E63-55CA-4CFC-B5A5-0BB9CE4AF1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D280D2B5-727E-4715-ABCE-8747E9A6FEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D280D2B5-727E-4715-ABCE-8747E9A6FEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D280D2B5-727E-4715-ABCE-8747E9A6FEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D280D2B5-727E-4715-ABCE-8747E9A6FEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74983D2-F5AB-43B5-AACC-22F1F0A0DEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74983D2-F5AB-43B5-AACC-22F1F0A0DEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74983D2-F5AB-43B5-AACC-22F1F0A0DEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74983D2-F5AB-43B5-AACC-22F1F0A0DEEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
